@@ -7,3 +7,4 @@ def feedback_system(user_input):
         print("Try again. The correct answer is: ", correct_answer)
 
 feedback_system("Hello")
+[image of a cat](/cat] (https://tinyurl.com/elementsofaicat)
